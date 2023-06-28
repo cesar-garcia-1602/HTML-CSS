@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+}
+
+/*Estoy probando colores y funciones*/
+p {
+    color: blue;
+    font-size: 16pt;
+}
+
+/*Selectores de id*/
+p#Primera-noticia {
+    color: green;
+    font-size: 12pt;
+}
+p#Segunda-noticia {
+    color: darkmagenta;
+}
+
+/*Selectores de clase*/
+.Encabezado {
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+*{
+    color: yellow;
+}
+
+*.warning {
+    color: red;
+}
+
+.Author, .Fecha , .Ubicacion, h1, #Segunda-noticia{
+    text-decoration: underline;
+}
+
