@@ -7,6 +7,12 @@
     height: 50px;
 }
 
-.span-1, .span-2{
+.span-1{
     background-color: aquamarine;
+    float: right;
+}
+
+.span-2{
+    background-color: aquamarine;
+    float: left;
 }
